@@ -24,7 +24,7 @@
         <span>A</span>
     </div>
     <div class="description">
-        <span>Ada hadiah bunga dari om oga,karna habis di langu deela....</span>
+        <span>FOR YOU....</span>
     </div>
     <div class="button">
         <button>
